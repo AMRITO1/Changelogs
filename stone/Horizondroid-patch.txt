@@ -1,0 +1,14 @@
+==============================================
+Horizon Droid 2.0 (cosmic) Changelogs :
+==============================================
+
+Date: 08 January 2024
+
+- Merged January security patches
+- Ships With Viper4FX and Dolby Atoms
+- FM & Wireless Wifi Display Does not Work
+- Initial Release 
+- End Of Life For A13
+
+
+- Built with Love For Horizon Droid And Stone 

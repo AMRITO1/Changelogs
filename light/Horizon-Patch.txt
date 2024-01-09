@@ -1,0 +1,25 @@
+==============================================
+Horizon Droid 2.0 (cosmic) Changelogs :
+==============================================
+
+Date: 08 January 2024
+
+- Merged January security patches
+- JIO calling works now
+- Added Something In Settings
+- Improved Device Performence
+- NFC & Fingerprint Lock doesnt work
+
+- Built with Love For Horizon Droid And Light 
+
+==============================================
+Horizon Droid 1.0 (venus) Changelogs :
+==============================================
+
+Date: 13 December 2023
+
+- Merged November security patches
+- JIO calling Does not work
+- Initial Release 
+
+- Built with Love For Horizon Droid And Light 
