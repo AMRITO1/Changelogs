@@ -1,0 +1,35 @@
+==============================================
+Cherish OS V5.1 Changelogs :
+==============================================
+
+Date: 11 January 2024
+
+- Merged January security patches
+- Ships With Viper4FX and Dolby Atoms
+- Thanks to Stone-Trees - https://github.com/Stone-Trees contributors for the Device Tree
+- End Of Life For A13
+
+
+- Built with Love For Cherish-OS And Stone 
+
+==============================================
+Cherish OS V5.1 Changelogs :
+==============================================
+
+Date: 28 December 2023
+
+- Merged December security patches
+- Ships With Viper4FX 
+ Thanks to Stone-Trees - https://github.com/Stone-Trees contributors for the Device Tree
+- Built with Love For Cherish-OS And Stone 
+
+==============================================
+Cherish OS V4.12 Changelogs :
+==============================================
+
+Date: 17 November 2023
+
+-  September Security Patch
+- YouTube Black Screen Bug (Fixable)
+- Initial & EOL build for A13 
+ Thanks to Stone-Trees - https://github.com/Stone-Trees contributors for the Device Tree
