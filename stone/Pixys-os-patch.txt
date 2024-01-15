@@ -1,0 +1,13 @@
+==============================================
+Pixys OS A14 Beta Changelogs :
+==============================================
+
+Date: 15 January 2024
+
+- Merged January security patches
+- Ships With Viper4FX and Dolby Atoms
+- Thanks to Stone-Trees - https://github.com/Stone-Trees contributors for the Device Tree
+- Volume Bug Panel is There
+- Apn settings Does not Open (QPR1 BUG)  
+
+- Built with Love For Pixys And Stone 
