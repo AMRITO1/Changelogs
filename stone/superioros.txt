@@ -6,7 +6,6 @@ Date: 22 January 2024
 
 - Better Than Crdroid
 - January Security Patch
-- YouTube Black Screen Bug (Fixable)
 - Initial & Vanilla Build 
 - Special Thanks to Opto,Kami,Taki
 - Used MY and Opto's Fork Trees
