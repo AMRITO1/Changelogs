@@ -1,0 +1,12 @@
+==============================================
+Pixelstar OS Changelogs :
+==============================================
+
+Date: 23 January 2024
+
+- January Security Patch
+- Initial & Vanilla Build 
+- Special Thanks to Opto,Kami,Taki
+- Used MY Fork Trees
+- Thanks To All Other Tree Contributiors
+
