@@ -1,0 +1,13 @@
+==============================================
+Bliss OS Changelogs :
+==============================================
+
+Date: 25 January 2024
+
+- January Security Patch
+- Initial & Vanilla Build 
+- Special Thanks to Opto,Kami,Taki
+- Used MY Fork Trees
+- Thanks To All Other Tree Contributiors
+- Offline Charging is Back But Safety-Net And Play Intergity Fails
+- Has Volume Panel Issue 
