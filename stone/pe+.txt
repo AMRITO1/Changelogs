@@ -1,0 +1,11 @@
+==============================================
+Pixel Experience+ OS Changelogs :
+==============================================
+
+Date: 26 January 2024
+
+- January Security Patch
+- Initial & Gapps Build 
+- Special Thanks to Red.d For His Trees
+- Thanks To All Other Tree Contributiors
+
